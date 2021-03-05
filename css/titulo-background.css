@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+
+#background{
+    display: block;
+    background-color: aquamarine;
+    height: 797px;
+}
+
+#background-left{
+    display: inline-block;
+    background-color: aqua;
+    height: 797px;
+    width: 955px;
+}
+
+#background-titulo{
+    background-color: #3A4042;
+    height: 184px;
+    width: 627px;
+    margin: 116px 237px 497px 91px;
+    box-shadow: 10px 10px 0 #000;
+    text-align: center;
+}
+
+#titulo{
+    font-family: "Press Start 2P";
+    font-size: 40px;
+    color: #4C5B84;
+    text-shadow: 4px 4px 0 #000;
+
+    padding-top: 52px;
+    margin-top: 0px;
+    margin-right: 53px;
+    margin-bottom: 0px;
+    margin-left: 54px;
+}
+
+#titulo-prof{
+    font-family: "Press Start 2P";
+    font-size: 30px;
+    color: #fff;
+    text-shadow: 4px 4px 0 #000;
+
+    padding-bottom: 40px;
+    margin-top: 22px;
+    margin-right: 22px;
+    margin-bottom: 0px;
+    margin-left: 35px;
+}
+
