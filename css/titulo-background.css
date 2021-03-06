@@ -3,15 +3,19 @@
 
 #background{
     display: block;
-    background-color: aquamarine;
+    background-image: url("../assets/img/gtr-background.jpg");
+    background-size: cover;
+    width: 1440;
     height: 797px;
+    justify-content: space-between;
 }
 
 #background-left{
     display: inline-block;
-    background-color: aqua;
-    height: 797px;
+    background-image: url(../assets/img/gtr-background-left.png);
     width: 955px;
+    height: 797px;
+    border-right: 5px solid #000;
 }
 
 #background-titulo{
