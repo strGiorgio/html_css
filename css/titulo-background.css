@@ -23,7 +23,7 @@
     height: 184px;
     width: 627px;
     margin: 116px 237px 497px 91px;
-    box-shadow: 10px 10px 0 #000;
+    box-shadow: 10px 10px #141414;
     text-align: center;
 }
 
@@ -52,4 +52,19 @@
     margin-bottom: 0px;
     margin-left: 35px;
 }
+
+.button-titulo{
+    margin-top: 38px;
+    padding: 0px;
+}
+
+.button-download{
+    margin-left: 25px;
+}
+
+.button-contato{
+    margin-left: 90px;
+    margin-right: 0px;
+}
+
 
