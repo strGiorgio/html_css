@@ -1,5 +1,5 @@
 @charset "UTF-8";
 
- body{
+ body, h1, a, div, h2, h3{
      margin: 0;
  }
