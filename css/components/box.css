@@ -1,6 +1,4 @@
-@charset "UTF-8";
-
-#box{
+.box{
     display: inline-block;
     background-color: #3A4042;
     box-shadow: 10px 10px 0px #000;
@@ -8,6 +6,6 @@
     padding: 40px 30px;
 }
 
-#box h1{
+.box .title{
     padding-bottom: 28px;
 }
