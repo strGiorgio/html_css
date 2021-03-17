@@ -3,10 +3,12 @@
     font-family: "Press Start 2P", sans-serif;
     font-size: 25px;
     color: #FFF;
+    align-items: center;
 }
 
 .skills-tec .icon{
-    padding-right: 25px;
+    margin-right: 25px;
+    width: 90px;
 }
 
 .skills-tec .right{
@@ -14,3 +16,8 @@
     flex-direction: column;
     justify-content: space-around;
 }
+
+.skills-tec .title{
+    margin-bottom: 10px;
+}
+
