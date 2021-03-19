@@ -1,0 +1,21 @@
+.card-project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #848484;
+    box-shadow: 10px 10px 0 #FFF;
+    width: 280px;
+    height: 280px;
+}
+
+.card-project._project1{
+    background-color: #545454;
+}
+
+.card-project._project2{
+    background-color: #848484;
+}
+
+.card-project._project3{
+    background-color: #545454;
+}
