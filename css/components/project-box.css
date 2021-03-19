@@ -1,0 +1,11 @@
+.project-box{
+    display: flex;
+    justify-content: center;
+    background-color: #828282;
+    box-shadow: 10px 10px 0 #FFF;
+    height: 280px;
+    width: 280px;
+    justify-content: center;
+    align-items: center;
+}
+
