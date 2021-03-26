@@ -5,10 +5,12 @@
     padding-right: 100px;
     padding-left: 100px;
 }
+
 .main-carousel::before{
     display: block;
     position: absolute;
     border: 2px dashed #000;
+    box-sizing: border-box;
     content: '';
     width: 100%;
     left: 0;
@@ -38,4 +40,15 @@
 
 .main-carousel .button-arrow._right{
     right: 15px;
+}
+
+.main-carousel .items{
+    width: 100%;
+    overflow: hidden;
+}
+
+.main-carousel .elements{
+    display: flex;
+    justify-content: space-between;
+    transition: transform 200ms ease-out;
 }
