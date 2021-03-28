@@ -1,0 +1,21 @@
+.main-baseboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    height: 100px;
+}
+
+.main-baseboard .items{
+    display: flex;
+    justify-content: space-around;
+    width: 244px;
+}
+
+.main-baseboard .items .item-logo{
+    transition: transform 100ms ease-in-out;
+}
+
+.main-baseboard .items .item-logo:hover{
+    transform: scale(1.07);
+}
