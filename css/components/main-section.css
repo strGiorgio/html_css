@@ -14,6 +14,10 @@
     padding-bottom: 100px;
 }
 
-.main-section ._about{
+.main-section._about{
     border-color: #000;
+}
+
+.main-section._contact{
+    border: none;
 }
