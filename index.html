@@ -31,6 +31,8 @@
     <link rel="stylesheet" href="css/components/button-arrow.css">
     <link rel="stylesheet" href="css/components/node-card.css">
     <link rel="stylesheet" href="css/components/main-form.css">
+    <link rel="stylesheet" href="css/components/main-label.css">
+    <link rel="stylesheet" href="css/components/main-input.css">
     <link rel="stylesheet" href="css/components/main-footer.css">
 
 </head>
@@ -182,16 +184,16 @@
         <h2 class="main-title _second">Contatos</h2>
 
         <form class="main-form">
-            <label class="main-title _third">Nome</label>
-            <input class="main-input" type="text" required minlength="2" maxlength="28">
+            <label for="name" class="main-label">Nome</label>
+            <input id="name" class="main-input" type="text" required minlength="2" maxlength="28">
 
-            <label class="main-title _third">Email</label>
-            <input class="main-input" type="email" required maxlength="28">
+            <label for="email" class="main-label">Email</label>
+            <input id="email" class="main-input" type="email" required maxlength="28">
 
-            <label class="main-title _third">Mensagem</label>
-            <textarea class="main-input _msg" rows="6" type="text" maxlength="100"></textarea>
+            <label for="message" class="main-label">Mensagem</label>
+            <textarea id="message" class="main-input _msg" rows="6" type="text" maxlength="100"></textarea>
 
-            <button class="main-button _btnSend" href="">Enviar</button>
+            <button class="main-button _btnSend" type="submit">Enviar</button>
         </form>
     </section>
 
