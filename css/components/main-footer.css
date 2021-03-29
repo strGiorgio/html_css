@@ -1,4 +1,4 @@
-.main-baseboard{
+.main-footer{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,16 +6,16 @@
     height: 100px;
 }
 
-.main-baseboard .items{
+.main-footer .items{
     display: flex;
     justify-content: space-around;
     width: 244px;
 }
 
-.main-baseboard .items .item-logo{
+.main-footer .items .item-logo{
     transition: transform 100ms ease-in-out;
 }
 
-.main-baseboard .items .item-logo:hover{
+.main-footer .items .item-logo:hover{
     transform: scale(1.07);
 }
