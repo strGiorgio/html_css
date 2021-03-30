@@ -10,6 +10,7 @@
     color: #FFF;
     text-decoration: none;
     text-align: center;
+    cursor: pointer;
 }
 
 .main-button:hover{
@@ -23,5 +24,8 @@
     width: 100%;
     font-size: 30px;
     font-weight: 300;
+}
 
+.main-button._btnSend:hover{
+    transform: scale(1.01);
 }
