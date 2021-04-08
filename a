@@ -1,0 +1,126 @@
+[33mcommit 7536167e157ee5f58409ef83dab7d3cac2007106[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Tue Mar 30 15:41:53 2021 -0300
+
+    Create legend for main-form and transform main-form in a section
+
+[33mcommit 1b54466525a68e7110798f0f81b14ddbff87157a[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Tue Mar 30 15:31:51 2021 -0300
+
+    Change button(_btnSend) scale
+
+[33mcommit 0e1a4e082098e0ac2176a4d4c45b789f4264daf5[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Tue Mar 30 15:26:22 2021 -0300
+
+    Align form and button
+
+[33mcommit 7f580618be894b5aa406b5c4319f705954a58d15[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Mon Mar 29 15:59:40 2021 -0300
+
+    Fix margin and padding of the main-input
+
+[33mcommit 81afde22df589efb50dbb303c47ba9b184397e7e[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Mon Mar 29 15:48:17 2021 -0300
+
+    Create main-input
+
+[33mcommit a9bc9a620d019995b87d1b979c917d1093ae8df6[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Mon Mar 29 15:46:57 2021 -0300
+
+    Create main-label
+
+[33mcommit 195a04dc690724a7121a15ea841cf3471f34aeda[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Mon Mar 29 15:15:07 2021 -0300
+
+    Change main-baseboard to main-footer
+
+[33mcommit 27a9c2da9f18137ddca8e80009d299e1bc6a97cf[m
+Merge: ff9ad2f b124a08
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sun Mar 28 16:24:52 2021 -0300
+
+    Merge branch 'master' of https://github.com/strGiorgio/html_css
+
+[33mcommit ff9ad2f6cb21e49e2866eeb5ea871fbe42e26bd0[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sun Mar 28 16:18:09 2021 -0300
+
+    Create baseboard of the website with twitter, youtube and discord links
+
+[33mcommit b124a08fbb98012906506c2bacd26ed594ebdbeb[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sun Mar 28 16:18:09 2021 -0300
+
+    Create baseboard of the website whit twitter, youtube and discord links
+
+[33mcommit 02d0d3887dc0a335f00d89c29c07ca7213dd24dd[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Fri Mar 26 17:05:35 2021 -0300
+
+    Create animation on carousel with js and create a folder scripts
+
+[33mcommit 2e31ab8711e717c1431d30f3b2955232e8ac32d9[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Fri Mar 26 17:04:28 2021 -0300
+
+    Fix bugs in main-carousel and align main-description
+
+[33mcommit 1ca6b01fbccc8c6d0e56c066226edd3b5269b3b6[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Thu Mar 25 17:53:08 2021 -0300
+
+    Create main-description and the carousel components
+
+[33mcommit a11191e46ccb60190b0b055372cc1387a8420171[m
+Author: Giorgio Álefe <79814560+strGiorgio@users.noreply.github.com>
+Date:   Tue Mar 23 00:04:10 2021 -0300
+
+    Create README.md
+
+[33mcommit 0a55a72f2313be7600cd0b30fbe58b321dcd9e3e[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Tue Mar 23 00:02:48 2021 -0300
+
+    Create section about and add the main-text
+
+[33mcommit 9d860c8e74e376cb86e587cbb7f2161d9542177d[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sat Mar 20 15:15:11 2021 -0300
+
+    Change subtitle to main-subtitle
+
+[33mcommit f74dc7c72b0331c625643515efab639874617d9a[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sat Mar 20 15:12:16 2021 -0300
+
+    Change section to main-section
+
+[33mcommit 4eaff7a2b63f83c6ef8d60af0d53e8b9738aa593[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sat Mar 20 15:09:31 2021 -0300
+
+    Change header to main-header
+
+[33mcommit f53da3971947fece4910ba4c64ee3a4ca9f59ccf[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sat Mar 20 15:07:08 2021 -0300
+
+    Change button to main-button
+
+[33mcommit a8a31c16e6d9ce95124fb627223ac18a425c06c6[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sat Mar 20 15:04:02 2021 -0300
+
+    Change box to main-box
+
+[33mcommit 2e8aa073a53e22a5559fd03800e35c41ef19b428[m
+Author: Giorgio Alefe <giorgioa2002@gmail.com>
+Date:   Sat Mar 20 15:00:16 2021 -0300
+
+    Change banner to main banner
